@@ -11,8 +11,11 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "linebreak-style": "off",
-        "no-console": "off",
-        "no-shadow": "off"
+        "linebreak-style": 0,
+        "no-console": 0,
+        "no-shadow": "off",
+        "implicit-arrow-linebreak": "off",
+        "eqeqeq": "off",
+        "consistent-return": "off"
     }
 }
